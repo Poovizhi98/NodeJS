@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_brad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Poovizhi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  }
+}
